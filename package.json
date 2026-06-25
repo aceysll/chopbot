@@ -12,7 +12,8 @@
     "react-dom": "^18.2.0",
     "@ffmpeg/ffmpeg": "0.11.6",
     "@ffmpeg/core": "0.11.0",
-    "react-router-dom": "6.23.1"
+    "react-router-dom": "6.23.1",
+    "@vercel/analytics": "latest"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
